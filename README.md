@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Nitrous.IO
 
 Nitrous.IO enables you to develop web applications completely in the
@@ -73,3 +74,36 @@ To use a specific Ruby version, create a .ruby-version file:
   echo 'ruby-2.1' > .ruby-version
 
 This Ruby box also comes with Node.JS installed via Autoparts.
+=======
+Enterprise App
+==============
+
+Powerful software
+=================
+
+### Welcome to the Repository
+
+Feel free to access [my portfolio](http://www.orienteer.it).
+
+> ## Headline goes here 
+> 
+> Nam testing nam tes upside *down*
+>
+
+### Crazy good software
++ Tested
+- 24 7 Support
+* Instant
+
+### Reasons to choose us
+1. Price
+2. Precision
+3. Performance
+
+This is what ruby code would look like
+`puts 'hello world'`
+
+
+
+
+>>>>>>> 9292608f73f2d128c0fdc21e73a77622c5770808
