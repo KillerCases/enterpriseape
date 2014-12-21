@@ -289,3 +289,11 @@ git checkout -b
 git checkout master
 git status
 git commit -am "mergin adding-selection"
+enterpriseape/
+git push
+git init
+git status
+git add .
+git config --global user.email "jo.killercases@gmail.com"
+git config --global user.name "KillerCases"
+git commit -am "mergin adding-selection"
