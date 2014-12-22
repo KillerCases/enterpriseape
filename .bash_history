@@ -297,3 +297,128 @@ git add .
 git config --global user.email "jo.killercases@gmail.com"
 git config --global user.name "KillerCases"
 git commit -am "mergin adding-selection"
+git commit -am "mergin adding-selection"
+git remote add origin https://github.com/KillerCases/enterpriseape.git
+git push -u origin master
+git push -u origin master
+git pull
+git push -u origin master
+git push
+git push -u origin master
+git pull
+git pull master
+git pull enterpriseape
+git add .
+git commit -am "commiting from new computer"
+git push -u origin master
+rails s
+cd enterpriseape/
+rake db:migrate
+git checkout -b "add-db-form-call"
+git add .
+git commit -am "adding add-db-form-call branch"
+git push
+git config --global push.default matching
+git push
+git push
+git pull
+git pull master
+git pull enterpriseape
+git branch
+git status
+git add .
+git commit -am "testing out branch stuff again"
+git push origin add-db-form-call
+rails g scaffold Employee name:string phone:string job_type:string --no-stylesheets
+cd enterpriseape/
+rails s
+cd enterpriseape/
+rails g scaffold Employee name:string phone:string job_type:string --no-stylesheets
+rake db:migrate
+rake routes
+rails g migration RemoveSalespersonFromInvoices
+cd enterpriseape/
+rails s
+cd enterpriseape/
+rails s
+cd enterpriseape/
+rails s
+cd enterpriseape/
+git branch
+rake db:migrate
+rails g migration RemoveSalespersonIdFromInvoices
+rake db:migrate
+git status
+git add .
+git commit -am "adding employee ids, not quite working"
+git push
+git checkout master
+git merge add-db-form-call
+git add .
+git status
+git commit -am "merging add-db-form-call
+
+exit
+
+œ
+exit
+cd enterpriseape/
+rails s
+cd enterpriseape/
+git status
+git commit -am "merging add-db-form"
+git push
+git push origin master
+git pull master
+git branch
+git checkout add-db-form-call
+git status
+git commit -am "updating branch before merge"
+git push
+git pull add-db-form-call
+git pull enterpriseape
+git push
+git pull --all
+git pull --all add-db-form-call
+git pull add-db-form-call
+git pull KillerCases
+git pull enterpriseape
+git checkout master
+git remote add origin https://github.com/KillerCases/enterpriseape.git 
+git pull
+cd enterpriseape
+git status
+cd enterpriseape/
+git status
+cd enterpriseape/
+git status
+cd enterpriseape/
+git add .
+git merge add-db-form-calls
+git merge add-db-form-call
+git push origin master
+git pull
+git pull origin next
+git pull origin
+cd enterpriseape/
+git pull origin
+cd enter
+cd enterpriseape/
+git status
+git push origin master
+cd
+git status
+git add .
+git push origin master
+git pull origin master
+git add .
+git status "trying to bring everything together"
+git push origin master
+git pull
+git status
+git commit -am "committing again?
+exit
+:q
+git add.
+git add .
+git commit -am "trying to commit again?

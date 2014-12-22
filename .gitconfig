@@ -11,3 +11,5 @@
 [user]
 	email = jo.killercases@gmail.com
 	name = KillerCases
+[push]
+	default = matching
